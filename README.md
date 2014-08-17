@@ -1,14 +1,8 @@
 # cljs-template
 
-An OM project designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
+A ClojureScript/Om template based on Clojure 1.6.0.
 
 ## License
-
-Copyright © 2014 FIXME
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
